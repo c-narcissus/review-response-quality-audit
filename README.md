@@ -1,6 +1,6 @@
 # 审稿答复质量审计
 
-匿名化审稿与答复质量审计 skill。
+审稿与答复质量审计 skill
 
 `review-response-quality-audit` 用于帮助审稿人分析论文、审稿意见和作者答复，区分真正解决、正当澄清、部分解决和答复修辞风险。它强调审稿人侧的质量审计，不用于帮助作者回避问题。
 
@@ -116,7 +116,7 @@
 
 # Review Response Quality Audit
 
-An anonymized review and rebuttal quality-audit skill.
+A review and rebuttal quality-audit skill.
 
 `review-response-quality-audit` helps reviewers analyze papers, review comments, and author rebuttals. It distinguishes real resolution, legitimate clarification, partial resolution, and rebuttal rhetoric risk. The skill focuses on reviewer-side quality auditing and is not intended to help authors evade reviewer concerns.
 
